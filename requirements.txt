@@ -2,4 +2,9 @@ Django==1.4.1
 Fabric==1.4.1
 South==0.7.4
 django-debug-toolbar==0.9.4
+pycrypto==2.6
+pyechonest==4.3.0
 raven==1.5.0
+simplejson==2.6.2
+ssh==1.8.0
+wsgiref==0.1.2
